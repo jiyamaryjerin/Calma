@@ -1,0 +1,1 @@
+A cross-platform Flutter application powered by a FastAPI backend  that combines conversational AI, emotion recognition and LLMs to deliver intelligent, context-aware  interactions. It is designed as an AI-powered emotional wellness companion to provide natural  conversations, personalized support and long-term contextual memory. 
